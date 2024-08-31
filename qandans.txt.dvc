@@ -1,0 +1,5 @@
+outs:
+- md5: ada9d760a7d43ecc77656a18a7284d65
+  size: 2679
+  hash: md5
+  path: qandans.txt
